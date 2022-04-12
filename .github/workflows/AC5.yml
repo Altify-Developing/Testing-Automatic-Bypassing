@@ -1,5 +1,4 @@
 name: AutoClone5
-
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 on:
